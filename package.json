@@ -1,0 +1,12 @@
+{
+  "name": "node-aula02",
+  "version": "1.0.0",
+  "description": "aula do curso TI15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "charles mascarenhas",
+  "license": "ISC",
+  "type": "module"
+}
