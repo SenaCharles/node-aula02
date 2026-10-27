@@ -6,3 +6,6 @@ Projeto desenvolvido em sala de aula no curso técnico em Informática para Inte
 
 criar o package-lock.jsaon
 npm install
+
+Instalar as dependências do framework Express
+npm install express

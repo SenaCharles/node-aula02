@@ -8,5 +8,8 @@
   },
   "author": "charles mascarenhas",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
